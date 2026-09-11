@@ -23,6 +23,19 @@ You find a place you want to go to, on say Tiktok -> our app will find the place
 The features that I'm currently thinking about including are as follows.
 
 - This is a social app, so there will be profiles for you and your friends.
-- You have the ability to create lists of places you want to go (example: NYC, Shanghai, Abu Dhabi)
+- You have the ability to create lists of places you want to go (example: NYC, Shanghai, Abu Dhabi) and invite the people you want invited into the list.
+- Automatic pin dropping on the map based on the link sent.
+- Ability to see "most-pinned places" or places your friends have saved to want to visit.
+- Also ability for friends in your list to vote on whether the place is a "must-visit" or they don't want to go (additionally, add notes so they can explain).
+
+### Don't want in app
+
+- Reviews for places - too cluttered and I think linking back to GMaps itself should handle this.
+
+### Possible future inclusions
+
+- Recommendation system, get recommended similar places based on your pins (also consider travel style)
 
 ## Scope
+
+- well.
