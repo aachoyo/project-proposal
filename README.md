@@ -1,5 +1,9 @@
 # See You Later? (Name is work in progress) We all need to go out more?
 
+## Team Members
+### [Aashma Varma](https://github.com/aachoyo)<br/>
+### [Siyona Goel](https://github.com/siyona-goel)
+
 ## What and Why?
 
 In between text messages with our friends, there are hundreds of links scattered that lead to places we are dying to go to. They could be a walk down the block or as far as the little island of Tuvalu. The point is, even after sending each other all these suggestions, we always end up at our regular spot, completely forgetting about the place we wanted to go to, and then complaining that we do the same thing every time.
