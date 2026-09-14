@@ -49,4 +49,8 @@ Lists are organized by city. A pin from a New York restaurant lands in the New Y
 
 ## Scope
 
-- well.
+The product has a few core features that require multiple different components, including user authentication and profiles, shared list management, database design, link processing, location and map integration, and a social voting system.
+
+Hence, the project substantially goes beyond a basic CRUD application, but we can still achieve it in a semester due to its scopes' boundaries. The goal is to build an application to turn a place someone discovers online into an actionable list item that a group of people can actually plan to visit.
+
+It's ideal for a team of 4-6 members because there would be work involving frontend, backend/database, map & location services, link processing, and group processing. Extra features like personalized recommendations will be included only if the core system is completed ahead of time.
