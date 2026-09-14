@@ -1,4 +1,4 @@
-# See You Later? (Name is work in progress) We all need to go out more?
+# Project Title: Later?
 
 ## Team Members
 ### [Aashma Varma](https://github.com/aachoyo)<br/>
